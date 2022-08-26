@@ -1,0 +1,7 @@
+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 (PRIMER TOKEN)
+
+git clone https://<GITHUB_ACCES_TOKEN>@github.com/<GITHUB_USERNAME>/<REPOSITORY_NAME>.git
+
+git push https://@github.com/<GITHUB_USERNAME>/<REPOSITORY_NAME>.git
+
+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 (SEGUNDO TOKEN)
